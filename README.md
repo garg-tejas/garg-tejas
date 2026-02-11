@@ -52,7 +52,6 @@ me.say_hi()
 
 ### AI/ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -81,7 +80,7 @@ me.say_hi()
 
 #### 🔍 [XAI for Diffusion Models](https://github.com/garg-tejas/xai-diffusion-based-models)
 Explainable AI framework for medical imaging with temporal & causal interpretability
-- **Stack:** PyTorch, GradCAM, SHAP
+- **Stack:** PyTorch, Custom XAI explainer
 - **Impact:** Improved model transparency for clinical use
 - **Techniques:** Counterfactual analysis, attention visualization
 
@@ -144,11 +143,11 @@ AI dashboard for medical report analysis with vision models
 
 <div align="center">
   
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garg-tejas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=garg-tejas&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garg-tejas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
+[![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=garg-tejas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=garg-tejas&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garg-tejas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -162,8 +161,6 @@ graph LR
     A --> C[XAI Methods]
     D[🏗️ Production] --> E[CV Pipelines]
     D --> F[LLM Applications]
-    B --> G[📚 Publications]
-    E --> G
 ```
 
 - 🧪 **Research:** Exploring interpretability in generative models
@@ -182,7 +179,7 @@ graph LR
 ## 💡 What I'm About
 
 ```
-🎓 Academic Excellence + 🛠️ Practical Engineering = 🚀 Impact
+🔬 Research + 🛠️ Engineering = 🚀 Real Impact
 ```
 
 I believe in:
@@ -212,4 +209,4 @@ I'm always excited to discuss:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=garg-tejas&color=3B82F6&style=for-the-badge)
 
-</div>
+</div
