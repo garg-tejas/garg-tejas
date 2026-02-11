@@ -143,11 +143,11 @@ AI dashboard for medical report analysis with vision models
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=garg-tejas&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=garg-tejas&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)](https://git.io/streak-stats)
 
-[![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=garg-tejas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tejas's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=garg-tejas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garg-tejas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=garg-tejas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
