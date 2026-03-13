@@ -2,31 +2,31 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&vCenter=true&width=600&lines=Building+AI+systems+that+work+in+production;Exploring+diffusion+models+%26+XAI;Real-time+computer+vision+%2B+LLM+research" alt="Typing SVG" />
 
-I build AI systems that work in the real world—not just in notebooks.
+Pre-final year CSE (AI/ML) at IIIT Nagpur. I build AI systems that hold up outside the notebook: real constraints, real data, real failure modes.
 
-Currently exploring **diffusion models**, **explainable AI**, and **real-time computer vision**. Pre-final year CSE (AIML) student at IIIT Nagpur.
-
----
-
-## What I'm working on
-
-**Research stuff:**
-- Built an XAI framework for diffusion-based medical classifiers ([XAI](https://github.com/garg-tejas/xai-diffusion-based-models))
-- Reproduced DiffMIC-v2 from scratch for diabetic retinopathy grading
-- Teaching language models to reason with GRPO ([experiment](https://github.com/garg-tejas/teaching-mistral-to-think))
-
-**Production systems:**
-- Real-time PPE compliance monitoring with event-driven architecture ([SentinelVision](https://github.com/garg-tejas/lab-safety-monitor))
-- NL-to-SQL pipeline with chain-of-thought reasoning ([NL-2-SQL](https://github.com/garg-tejas/nl2sql))
-- AI-powered blood report parser with dual OCR pipeline ([BloodParser](https://github.com/garg-tejas/blood-report-parser))
-
-**Tools I built for myself:**
-- Personal knowledge curation with contradiction detection ([Noesis](https://github.com/garg-tejas/noesis))
-- Multi-agent systems, RAG pipelines, and other experiments
+Right now I'm deep into diffusion models, explainable AI, and agentic systems.
 
 ---
 
-## Tech I use
+## What I've been building
+
+**Research:**
+- XAI framework for diffusion-based medical classifiers. Interpretability across 1000 denoising timesteps ([repo](https://github.com/garg-tejas/xai-diffusion-based-models))
+- DiffMIC-v2 from scratch. Diabetic retinopathy grading with dual-granularity conditioning, 84.1% on APTOS-2019 ([repo](https://github.com/garg-tejas/diffmic-from-scratch))
+- Teaching Mistral-7B to reason with GRPO. +8% on GSM8K over SFT ([experiment](https://github.com/garg-tejas/teaching-mistral-to-think))
+
+**Systems:**
+- Real-time PPE compliance monitoring. Event-driven, EMA fusion, stable under occlusion ([SentinelVision](https://github.com/garg-tejas/lab-safety-monitor))
+- Multi-agent research assistant. LangGraph pipelines over arXiv + Semantic Scholar ([ArXiv Scout](https://github.com/garg-tejas/arxiv-scout))
+- NL→SQL with chain-of-thought reasoning, 78% execution accuracy on Spider ([NL2SQL](https://github.com/garg-tejas/nl2sql))
+- Medical report parser with dual OCR + Gemini pipeline ([BloodParser](https://github.com/garg-tejas/blood-report-parser))
+
+**For myself:**
+- Knowledge curation tool with contradiction detection. Because saving tabs isn't the same as learning ([Noesis](https://github.com/garg-tejas/noesis))
+
+---
+
+## Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -48,24 +48,15 @@ Currently exploring **diffusion models**, **explainable AI**, and **real-time co
 
 ---
 
-## Things I care about
+## What I care about
 
-- Making AI interpretable (not just accurate)
-- Designing systems that handle real-world constraints (occlusion, latency, cost)
-- Honest experimental reporting (including failures)
-- Writing READMEs that actually help people understand the work
-
----
-
-## Let's talk if you're into:
-
-- Research collaborations (XAI, diffusion models, RL for reasoning)
-- Production ML challenges (video pipelines, LLM applications, edge deployment)
-- Interesting projects that need AI engineering
-- Career opportunities in ML/research engineering
-
-**Reach out:** [tejas@tejasgarg.in](mailto:tejas@tejasgarg.in) • [LinkedIn](https://linkedin.com/in/tejas-garg) • [Portfolio](https://tejasgarg.in)
+- Interpretability, not just accuracy
+- Systems that handle real constraints: occlusion, latency, limited compute
+- Honest reporting, including the parts that didn't work
+- READMEs that actually explain the tradeoffs
 
 ---
 
-<sub>📍 Nagpur, India • 🎓 IIIT Nagpur</sub>
+[tejas@tejasgarg.in](mailto:tejas@tejasgarg.in) • [Portfolio](https://tejasgarg.in) • [LinkedIn](https://linkedin.com/in/tejas-garg)
+
+<sub>📍 Nagpur • IIIT Nagpur '27</sub>
