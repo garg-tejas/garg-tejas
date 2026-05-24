@@ -11,7 +11,7 @@ Right now I'm deep into agentic systems, LLM post-training, and multi-agent RL.
 ## What I've been building
 
 **Agents & RL:**
-- Multi-agent dispatch system for a 20-node city POMDP. GRPO on Qwen3-4B, adversarial curriculum, radio delays, ghost calls. 47/47 tests ([DispatchR](https://github.com/garg-tejas/dispatchR))
+- Multi-agent dispatch system for a 20-node city POMDP. GRPO on Qwen3-4B, adversarial curriculum, radio delays, ghost calls ([DispatchR](https://github.com/garg-tejas/dispatchR))
 - Multi-agent research assistant. LangGraph pipelines over arXiv + Semantic Scholar ([ArXiv Scout](https://github.com/garg-tejas/arxiv-scout))
 - Prompt versioning + eval platform with A/B testing and LLM-as-judge scoring ([PromptLab](https://github.com/garg-tejas/prompt-lab))
 
